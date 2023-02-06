@@ -551,3 +551,51 @@
 15. Minimum Possible value of |ai + aj – k| for given array and k.
 16. Special two digit numbers in a Binary Search Tree
 17. Merge Two Balanced Binary Search Trees
+
+
+## Heap
+
+### Easy
+
+1. Heap Sort
+2. Check if a given Binary Tree is Heap
+3. How to check if a given array represents a Binary Heap?
+4. Iterative Heap Sort
+5. K’th Largest Element in an array
+6. K’th Smallest/Largest Element in Unsorted Array | Set 1
+7. Height of a complete binary tree (or Heap) with N nodes
+8. Heap Sort for decreasing order using min heap
+
+### Medium
+
+1. Sort an almost sorted array
+2. Print all nodes less than a value x in a Min Heap.
+3. Tournament Tree (Winner Tree) and Binary Heap
+4. Connect n ropes with minimum cost
+5. Maximum distinct elements after removing k elements
+6. K maximum sum combinations from two arrays
+7. Median of Stream of Running Integers using STL
+8. Median in a stream of integers (running integers)
+9. K’th largest element in a stream
+10. Largest triplet product in a stream
+11. Find k numbers with most occurrences in the given array
+12. Convert min Heap to max Heap
+13. Given level order traversal of a Binary Tree, check if the Tree is a Min-Heap
+
+### Hard
+
+1. Design an efficient data structure for given operations
+2. Merge k sorted arrays | Set 1
+3. Merge Sort Tree for Range Order Statistics
+4. Sort numbers stored on different machines
+5. Smallest Derangement of Sequence
+6. Largest Derangement of a Sequence
+7. Maximum difference between two subsets of m elements
+8. Convert BST to Min Heap
+9. Merge two binary Max Heaps
+10. K-th Largest Sum Contiguous Subarray
+11. Minimum product of k integers in an array of positive Integers
+12. Leaf starting point in a Binary Heap data structure
+13. Rearrange characters in a string such that no two adjacent are same
+14. Sum of all elements between k1’th and k2’th smallest elements
+15. Minimum sum of two numbers formed from digits of an array
