@@ -4,14 +4,14 @@
 
 ### Basic:- 
 
-Searching in Array
-1. Write a program to reverse an array
-2. Left Rotate an Array
-3. Right rotate an Array
-4. Search, insert and delete in an unsorted array
-5. Search, insert and delete in a sorted array
-6. Sort an Array
-7. Generate all subarrays
+1. Searching in Array
+2. Write a program to reverse an array
+3. Left Rotate an Array
+4. Right rotate an Array
+5. Search, insert and delete in an unsorted array
+6. Search, insert and delete in a sorted array
+7. Sort an Array
+8. Generate all subarrays
 
 ### Easy:-
 
